@@ -1,0 +1,5 @@
+baseURL = "https://mwhickson.github.io/blog"
+locale = "en-us"
+publishDir = "docs"
+theme = "hugo-flex"
+title = "Matthew Hickson's Blog"
