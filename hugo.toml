@@ -1,5 +1,11 @@
 baseURL = "https://mwhickson.github.io/blog"
+cleanDestinationDir = true
 locale = "en-us"
 publishDir = "docs"
-theme = "hugo-flex"
 title = "Matthew Hickson's Blog"
+
+theme = "hugo-flex"
+
+[params]
+color = "#660000"
+footer = "Copyright &copy; 2026, Matthew Hickson. All rights reserved."
