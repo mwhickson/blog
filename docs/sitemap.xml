@@ -3,14 +3,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/about/</loc>
+    <loc>https://mwhickson.github.io/blog/</loc>
+    <lastmod>2026-06-01T07:18:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/posts/migration/</loc>
+    <lastmod>2026-06-01T07:18:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/posts/</loc>
+    <lastmod>2026-06-01T07:18:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/</loc>
+    <lastmod>2026-06-01T07:08:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/rpg/settings/</loc>
+    <lastmod>2026-06-01T07:08:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/rpg/systems/</loc>
+    <lastmod>2026-06-01T07:08:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/rpg/tools/</loc>
+    <lastmod>2026-06-01T07:08:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/rpg/</loc>
+    <lastmod>2026-06-01T07:08:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/miscellaneous/articles/</loc>
+    <lastmod>2026-06-01T07:04:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/miscellaneous/matts/</loc>
+    <lastmod>2026-06-01T07:04:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/miscellaneous/</loc>
+    <lastmod>2026-06-01T07:04:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/entertainment/amusements/</loc>
+    <lastmod>2026-06-01T07:01:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/entertainment/</loc>
+    <lastmod>2026-06-01T07:01:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/entertainment/music/</loc>
+    <lastmod>2026-06-01T07:01:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/entertainment/podcasts/</loc>
+    <lastmod>2026-06-01T07:01:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/entertainment/streaming/</loc>
+    <lastmod>2026-06-01T07:01:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/entertainment/television/</loc>
+    <lastmod>2026-06-01T07:01:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/computers/</loc>
+    <lastmod>2026-06-01T06:59:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/computers/hardware/</loc>
+    <lastmod>2026-06-01T06:59:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/lists/computers/software/</loc>
+    <lastmod>2026-06-01T06:59:00-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/about/</loc>
     <lastmod>2026-05-31T16:46:14-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-05-31T16:46:14-04:00</lastmod>
+    <loc>https://mwhickson.github.io/blog/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>https://mwhickson.github.io/blog/tags/</loc>
   </url>
 </urlset>
