@@ -1,7 +1,7 @@
 +++
-date = '2026-06-01T07:08:00-04:00'
+date = "2026-06-01T07:08:00-04:00"
 draft = false
-title = 'Lists - RPG Systems'
+title = "Lists - RPG Systems"
 +++
 
 ## Open Gaming (CC, OGL, ORC)

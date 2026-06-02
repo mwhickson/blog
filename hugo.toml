@@ -7,5 +7,27 @@ title = "Matthew Hickson's Blog"
 theme = "hugo-flex"
 
 [params]
-color = "#660000"
-footer = "Copyright &copy; 2026, Matthew Hickson. All rights reserved."
+    color = "#660000"
+    footer = "Copyright &copy; 2026, Matthew Hickson. All rights reserved."
+
+[menus]
+    [[menus.main]]
+        name = "Home"
+        pageRef = "/"
+        weight = 10
+        outputs = [ "html", "rss" ]
+
+    [[menus.main]]
+        name = "About"
+        pageRef = "/about"
+        weight = 20
+
+    [[menus.main]]
+        name = "Lists"
+        pageRef = "/lists"
+        weight = 30
+
+    [[menus.main]]
+        name = "Tags"
+        pageRef = "/tags"
+        weight = 40

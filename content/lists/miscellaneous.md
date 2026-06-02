@@ -1,7 +1,8 @@
 +++
-date = '2026-06-01T07:04:00-04:00'
+date = "2026-06-01T07:04:00-04:00"
 draft = false
-title = 'Lists - Miscellaneous'
+title = "Lists - Miscellaneous"
+tags = [ "list" ]
 +++
 
 The following pages highlight various miscellanea I like to keep track of:

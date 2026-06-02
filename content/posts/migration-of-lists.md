@@ -1,7 +1,9 @@
 +++
-date = '2026-06-01T07:18:00-04:00'
+date = "2026-06-01T07:18:00-04:00"
 draft = false
-title = 'Migration of Lists'
+title = "Migration of Lists"
+[params]
+    author = "Matthew Hickson"
 +++
 
 I have successfully migrated my previous [Lists](https://github.com/mwhickson/lists) content to Hugo.

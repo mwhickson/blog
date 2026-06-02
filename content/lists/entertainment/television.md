@@ -1,7 +1,7 @@
 +++
-date = '2026-06-01T07:01:00-04:00'
+date = "2026-06-01T07:01:00-04:00"
 draft = false
-title = 'Lists - Television'
+title = "Lists - Television"
 +++
 
 The Adventures of Sherlock Holmes

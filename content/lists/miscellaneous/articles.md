@@ -1,7 +1,7 @@
 +++
-date = '2026-06-01T07:04:00-04:00'
+date = "2026-06-01T07:04:00-04:00"
 draft = false
-title = 'Lists - Articles'
+title = "Lists - Articles"
 +++
 
 Hex Flower Power
