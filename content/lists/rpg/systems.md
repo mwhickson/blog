@@ -2,6 +2,9 @@
 date = "2026-06-01T07:08:00-04:00"
 draft = false
 title = "Lists - RPG Systems"
+type = "page"
+[params]
+    showdate = false
 +++
 
 ## Open Gaming (CC, OGL, ORC)

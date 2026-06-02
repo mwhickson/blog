@@ -8,26 +8,21 @@ theme = "hugo-flex"
 
 [params]
     color = "#660000"
-    footer = "Copyright &copy; 2026, Matthew Hickson. All rights reserved."
+    footer = "Copyright 2026, Matthew Hickson. All rights reserved."
+    summaries = true
 
 [menus]
     [[menus.main]]
-        name = "Home"
-        pageRef = "/"
+        name = "Posts"
+        pageRef = "/post"
         weight = 10
-        outputs = [ "html", "rss" ]
-
-    [[menus.main]]
-        name = "About"
-        pageRef = "/about"
-        weight = 20
 
     [[menus.main]]
         name = "Lists"
         pageRef = "/lists"
-        weight = 30
+        weight = 20
 
     [[menus.main]]
         name = "Tags"
         pageRef = "/tags"
-        weight = 40
+        weight = 30

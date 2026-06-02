@@ -2,6 +2,9 @@
 date = "2026-06-01T06:59:00-04:00"
 draft = false
 title = "Lists - Hardware"
+type = "page"
+[params]
+    showdate = false
 +++
 
 Atari VCS
