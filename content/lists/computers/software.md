@@ -76,6 +76,9 @@ WinMerge
 CudaText
 - https://cudatext.github.io/
 
+Edit
+- https://github.com/microsoft/edit
+
 Emacs
 - https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html
 
