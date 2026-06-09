@@ -46,6 +46,10 @@ Luanti (formerly Minetest)
 Midnight Commander
 - https://midnight-commander.org/
 
+Ogres Tabletop
+- https://ogres.app/
+- https://github.com/samcf/ogres
+
 Rclone
 - https://rclone.org/
 
