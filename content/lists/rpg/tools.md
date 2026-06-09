@@ -13,6 +13,13 @@ Cairn Character Generator
 - First Edition: https://cairnrpg.com/first-edition/tools/character-generator/
 - Second Edition: https://cairnrpg.com/second-edition/tools/character-generator/
 
+Character Lifepath (3.5e Variant Rule)
+- https://www.dandwiki.com/wiki/Character_Lifepath_(3.5e_Variant_Rule)
+
+Custom Fate Accelerated (FAE) Character Sheet
+DISCLAIMER: This is one I did.
+- https://mwhickson.github.io/brewfae/
+
 Mark Munsen Traveller Site
 - https://www.munsondev.com/chargen/
 
@@ -22,8 +29,17 @@ PCGen
 Purple Sorcerer Dungeon Crawl Classics (DCC) Character Generators
 - https://purplesorcerer.com/styles.php
 
+Savage Worlds Character Creator
+- https://savaged.us/tools/character-creator/
+
 Scvmbirther MÖRK BORG Character Generator
 - https://scvmbirther.makedatanotlore.dev/
+
+ShadowDark Character Generator
+- https://shadowdarklings.net/create#!
+
+Zeke's ICRPG Character Maker
+- https://icrpgcommunitycontent.com/character-maker/
 
 ## Communities and Forums
 

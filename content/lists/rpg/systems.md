@@ -21,6 +21,9 @@ Basic Roleplaying - Universal Game Engine (ORC)
 Basic Fantasy Role-playing Game (CC)
 - https://www.basicfantasy.org/
 
+Black Flag Roleplaying (ORC)
+- https://koboldpress.com/black-flag-roleplaying/
+
 Blades in the Dark (CC)
 - https://bladesinthedark.com/basics
 
@@ -141,6 +144,9 @@ Huckleberry: Quickdraw Edition
 
 ICON playtest
 - https://massif-press.itch.io/icon
+
+Index Card RPG Quickstart
+- https://icrpgcommunitycontent.com/
 
 LifepathRPG
 - https://www.lifepathrpg.com/

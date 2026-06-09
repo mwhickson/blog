@@ -9,3 +9,12 @@ type = "page"
 
 Floor796
 - https://floor796.com/
+
+Neocities
+- https://neocities.org/
+
+TI99'ers
+- https://ti99ers.com/#/
+
+Vaults of Grayskull
+- https://vaultsofgrayskull.net/

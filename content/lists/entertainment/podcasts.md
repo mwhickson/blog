@@ -34,6 +34,9 @@ Decoder Ring Theatre
 King Falls AM
 - https://audioboom.com/channels/4256036.rss
 
+Limelight (BBC Audio)
+- https://www.bbc.com/audio/brand/p09hbsqb
+
 Relic Radio Sci-Fi (old time radio)
 - http://feeds.feedburner.com/relicradiosciencefiction
 
@@ -66,8 +69,14 @@ Androids & Aliens
 Burn Everything Gaming: Fate RPG
 - https://BurnEverythingGaming.podbean.com/feed.xml
 
+Dungeon Musings
+- https://www.youtube.com/@DungeonMusings
+
 Essential NPCs
 - http://feeds.soundcloud.com/users/soundcloud:users:193629322/sounds.rss
+
+Explorer's Wanted
+- https://www.explorerswanted.fm/
 
 Fandible Actual Play Podcast
 - https://www.fandible.com/?feed=podcast

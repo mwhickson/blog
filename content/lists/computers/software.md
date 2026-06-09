@@ -9,6 +9,13 @@ type = "page"
 
 ## Applications
 
+Bun
+- https://bun.sh/
+
+Fantasy Grounds VTT (SmiteWorks)
+- https://www.fantasygrounds.com/
+- https://fantasygroundsunity.atlassian.net/wiki/spaces/FGCP/overview?homepageId=996704381
+
 Fossil SCM
 - https://fossil-scm.org/home/doc/trunk/www/index.wiki
 
@@ -24,17 +31,35 @@ gPodder + VLC
 Grover Podcast
 - https://apps.microsoft.com/detail/9nblggh6c4bc?hl=en-US&gl=US
 
+HERO Designer
+- https://www.herogames.com/store/product/1-hero-designer/
+
 KoboldCpp
 - https://github.com/lostruins/koboldcpp
 
 LibreOffice
 - https://www.libreoffice.org/
 
+Luanti (formerly Minetest)
+- https://www.luanti.org/en/
+
+Midnight Commander
+- https://midnight-commander.org/
+
+Rclone
+- https://rclone.org/
+
 ripgrep
 - https://github.com/BurntSushi/ripgrep
 
 Sqlite
 - https://sqlite.org/
+
+StackSocial
+- https://www.stacksocial.com/
+
+vestige
+- https://github.com/samvallad33/vestige
 
 VLC
 - https://www.videolan.org/vlc/

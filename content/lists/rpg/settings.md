@@ -43,8 +43,15 @@ Overlight (Overlight)
 Ravenloft (D&D)
 - https://ravenloft.fandom.com/wiki/Ravenloft_Wiki
 
+Scadrial / Final Empire (Cosmere / Mistborn)
+- https://www.cosmererpg.com/mistborn
+- https://coppermind.net/wiki/Scadrial
+
 The Sixth World (Shadowrun)
 - https://www.shadowrunsixthworld.com/the-sixth-world/
 
 Talislanta (Talislanta / OMNI / D&D)
 - http://talislanta.com/
+
+Umdaar (Fate)
+- https://www.drivethrurpg.com/en/product/568102/umdaar-rebel-broadcast-edition

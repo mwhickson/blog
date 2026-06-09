@@ -49,8 +49,14 @@ Tubi
 @chaosiuminc
 - https://www.twitch.tv/chaosiuminc
 
+@cozyazeroth
+- https://www.twitch.tv/cozyazeroth
+
 @daniel_dekay
 - https://www.twitch.tv/daniel_dekay
+
+@darlingcreepshow
+- https://www.twitch.tv/darlingcreepshow
 
 @DefendersOfKobold
 - https://www.twitch.tv/defendersofkobold
@@ -70,17 +76,32 @@ Tubi
 @matthewkheafy
 - https://www.twitch.tv/matthewkheafy
 
+@nothings2
+- https://www.twitch.tv/nothings2
+
+@photonscx
+- https://www.twitch.tv/photonscx
+
 @rw_grim
 - https://www.twitch.tv/rw_grim
 
 @SabrinaSoloShow
 - https://www.twitch.tv/sabrinasoloshow
 
+@skyhook
+- https://www.twitch.tv/skyhook
+
 @TheLollygaggers
 - https://www.twitch.tv/thelollygaggers
 
 @ThatBronzeGirl
 - https://www.twitch.tv/thatbronzegirl
+
+@trolllordgames
+- https://www.twitch.tv/trolllordgames
+
+@ultravioletriot
+- https://www.twitch.tv/ultravioletriot
 
 @ZedAShaw
 - https://www.twitch.tv/zedashaw
