@@ -23,6 +23,10 @@ DISCLAIMER: This is one I did.
 Mark Munsen Traveller Site
 - https://www.munsondev.com/chargen/
 
+Optolith : Character Creator and Manager for TDE 5th Edition
+- https://optolith.app/en
+- https://github.com/elyukai/optolith-client
+
 PCGen
 - http://pcgen.org/
 
