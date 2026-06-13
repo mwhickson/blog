@@ -13,6 +13,9 @@ An RNG that runs in your brain
 Beej's Guides
 - https://beej.us/guide/
 
+Behold A 60 Hz Refresh Rate E-ink Monitor
+- https://hackaday.com/2026/06/13/behold-a-60-hz-refresh-rate-e-ink-monitor/
+
 Building my own Vi text editor in BASIC
 - https://leetusman.com/nosebook/yvi
 
