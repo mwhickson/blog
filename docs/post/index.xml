@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Matthew Hickson&#39;s Blog</title>
+		<link>http://localhost:1313/blog/post/</link>
+		<description>Recent content in Posts on Matthew Hickson&#39;s Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 13 Jun 2026 15:53:51 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/blog/post/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Opinionated Software</title>
+				<link>http://localhost:1313/blog/post/opinionated-software/</link>
+				<pubDate>Sat, 13 Jun 2026 15:53:51 -0400</pubDate>
+				<guid>http://localhost:1313/blog/post/opinionated-software/</guid>
+				<description>&lt;p&gt;This one hits close to home these days&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Opinionated software, or software pre-configured with behaviours strongly-suggested (if not outright forced), can be great!&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s when the user of the tool and the tool-maker disagree that opinionated software can be&amp;hellip; not so great&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;I like to think that I&amp;rsquo;m a pretty easygoing guy, but sometimes I run against the grain when it comes to the way my tools would prefer that I work.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Initial Thoughts on Hugo</title>
+				<link>http://localhost:1313/blog/post/initial-thoughts-on-hugo/</link>
+				<pubDate>Wed, 10 Jun 2026 06:53:08 -0400</pubDate>
+				<guid>http://localhost:1313/blog/post/initial-thoughts-on-hugo/</guid>
+				<description>&lt;p&gt;Well, it&amp;rsquo;s official!&lt;/p&gt;&#xA;&lt;p&gt;I have a blog using Hugo!&lt;/p&gt;&#xA;&lt;p&gt;Time for a quick &amp;rsquo;n&amp;rsquo; dirty collection of thoughts on the process thus far.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Migration of Lists</title>
+				<link>http://localhost:1313/blog/post/migration-of-lists/</link>
+				<pubDate>Mon, 01 Jun 2026 07:18:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/post/migration-of-lists/</guid>
+				<description>&lt;p&gt;I have successfully migrated my previous &lt;a href=&#34;https://github.com/mwhickson/lists&#34;&gt;Lists&lt;/a&gt; content to Hugo.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

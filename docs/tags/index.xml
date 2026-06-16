@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tags on Matthew Hickson&#39;s Blog</title>
+		<link>http://localhost:1313/blog/tags/</link>
+		<description>Recent content in Tags on Matthew Hickson&#39;s Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jun 2026 07:08:00 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>List</title>
+				<link>http://localhost:1313/blog/tags/list/</link>
+				<pubDate>Mon, 01 Jun 2026 07:08:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/tags/list/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rpg</title>
+				<link>http://localhost:1313/blog/tags/rpg/</link>
+				<pubDate>Mon, 01 Jun 2026 07:08:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/tags/rpg/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fun</title>
+				<link>http://localhost:1313/blog/tags/fun/</link>
+				<pubDate>Mon, 01 Jun 2026 07:01:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/tags/fun/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Music</title>
+				<link>http://localhost:1313/blog/tags/music/</link>
+				<pubDate>Mon, 01 Jun 2026 07:01:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/tags/music/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Podcast</title>
+				<link>http://localhost:1313/blog/tags/podcast/</link>
+				<pubDate>Mon, 01 Jun 2026 07:01:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/tags/podcast/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Television</title>
+				<link>http://localhost:1313/blog/tags/television/</link>
+				<pubDate>Mon, 01 Jun 2026 07:01:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/tags/television/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Computer</title>
+				<link>http://localhost:1313/blog/tags/computer/</link>
+				<pubDate>Mon, 01 Jun 2026 06:59:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/tags/computer/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hardware</title>
+				<link>http://localhost:1313/blog/tags/hardware/</link>
+				<pubDate>Mon, 01 Jun 2026 06:59:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/tags/hardware/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Software</title>
+				<link>http://localhost:1313/blog/tags/software/</link>
+				<pubDate>Mon, 01 Jun 2026 06:59:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/tags/software/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Technology</title>
+				<link>http://localhost:1313/blog/tags/technology/</link>
+				<pubDate>Mon, 01 Jun 2026 06:59:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/tags/technology/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

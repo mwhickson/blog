@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>List on Matthew Hickson&#39;s Blog</title>
+		<link>http://localhost:1313/blog/tags/list/</link>
+		<description>Recent content in List on Matthew Hickson&#39;s Blog</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jun 2026 07:08:00 -0400</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/blog/tags/list/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lists - Tabletop Roleplaying Games</title>
+				<link>http://localhost:1313/blog/lists/rpg/</link>
+				<pubDate>Mon, 01 Jun 2026 07:08:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/lists/rpg/</guid>
+				<description>&lt;p&gt;The following pages highlight tabletop roleplaying game topics of interest:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/rpg/settings&#34;&gt;Settings&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/rpg/systems&#34;&gt;Systems&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/rpg/tools&#34;&gt;Tools&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Lists - Miscellaneous</title>
+				<link>http://localhost:1313/blog/lists/miscellaneous/</link>
+				<pubDate>Mon, 01 Jun 2026 07:04:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/lists/miscellaneous/</guid>
+				<description>&lt;p&gt;The following pages highlight various miscellanea I like to keep track of:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/miscellaneous/articles&#34;&gt;Articles&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/miscellaneous/matts&#34;&gt;Matts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Lists - Entertainment</title>
+				<link>http://localhost:1313/blog/lists/entertainment/</link>
+				<pubDate>Mon, 01 Jun 2026 07:01:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/lists/entertainment/</guid>
+				<description>&lt;p&gt;The following pages highlight some of the things I find entertaining:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/entertainment/amusements&#34;&gt;Amusements&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/entertainment/music&#34;&gt;Music&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/entertainment/podcasts&#34;&gt;Podcasts&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/entertainment/streaming&#34;&gt;Streaming&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/entertainment/television&#34;&gt;Television&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Lists - Computers</title>
+				<link>http://localhost:1313/blog/lists/computers/</link>
+				<pubDate>Mon, 01 Jun 2026 06:59:00 -0400</pubDate>
+				<guid>http://localhost:1313/blog/lists/computers/</guid>
+				<description>&lt;p&gt;The following pages highlight some of the things I find interesting about computers:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/computers/hardware&#34;&gt;Hardware&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/blog/lists/computers/software&#34;&gt;Software&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

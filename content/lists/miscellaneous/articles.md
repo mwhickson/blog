@@ -27,6 +27,7 @@ Silence of the dice
 
 The Git Commands I Run Before Reading Any Code
 - https://piechowski.io/post/git-commands-before-reading-code/
+- https://news.ycombinator.com/item?id=47687273
 
 Their Bionic Eyes Are Now Obsolete and Unsupported
 - https://spectrum.ieee.org/bionic-eye-obsolete
@@ -34,11 +35,16 @@ Their Bionic Eyes Are Now Obsolete and Unsupported
 Vesuvius Turned a Roman Man's Brain Into Glass
 - https://www.smithsonianmag.com/smart-news/vesuvius-turned-a-roman-mans-brain-into-glass-now-scientists-reveal-how-the-extremely-rare-preservation-happened-180986145/
 
+Why I email complete strangers
+- https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
+- https://news.ycombinator.com/item?id=48547566
+
 Writing an editor in less than 1000 lines of code, just for fun
 - https://antirez.com/news/108
 
 Writing Toy Software Is A Joy
 - https://blog.jsbarretto.com/post/software-is-joy
+- https://news.ycombinator.com/item?id=44367084 (or https://news.ycombinator.com/item?id=44284291)
 
 Zen of Python
 - https://peps.python.org/pep-0020/
