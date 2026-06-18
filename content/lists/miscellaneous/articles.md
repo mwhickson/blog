@@ -10,6 +10,9 @@ type = "page"
 An RNG that runs in your brain
 - https://www.hillelwayne.com/post/randomness/
 
+Apple’s weird anti-nausea dots cured my car sickness
+- https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work
+
 Beej's Guides
 - https://beej.us/guide/
 
@@ -18,6 +21,9 @@ Behold A 60 Hz Refresh Rate E-ink Monitor
 
 Building my own Vi text editor in BASIC
 - https://leetusman.com/nosebook/yvi
+
+Fabrice Bellard's Home Page
+- https://bellard.org/
 
 Hex Flower Power
 - https://goblinshenchman.wordpress.com/hex-power-flower/
