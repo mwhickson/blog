@@ -28,12 +28,21 @@ Fabrice Bellard's Home Page
 Hex Flower Power
 - https://goblinshenchman.wordpress.com/hex-power-flower/
 
+Pragmatism in Programming Proverbs
+- https://www.gingerbill.org/article/2020/05/31/programming-pragmatist-proverbs/
+
+Roleplaying games 101
+- https://pelgranepress.com/roleplaying-games-101/
+
 Silence of the dice
 - https://latenightzen.blogspot.com/2020/02/silence-of-dice.html
 
 The Git Commands I Run Before Reading Any Code
 - https://piechowski.io/post/git-commands-before-reading-code/
 - https://news.ycombinator.com/item?id=47687273
+
+The Word "Emoji" Is Older Than You May Think
+- https://blog.emojipedia.org/the-word-emoji-is-older-than-you-may-think/
 
 Their Bionic Eyes Are Now Obsolete and Unsupported
 - https://spectrum.ieee.org/bionic-eye-obsolete
