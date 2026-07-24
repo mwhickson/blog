@@ -78,6 +78,9 @@ Open Adventure (CC)
 Open Legend (Open Legend Community License)
 - https://openlegendrpg.com/
 
+Open00 System Reference Document (Open00 Third Party License)
+- https://srd.vsdarkmaster.com/
+
 OpenD6 (OGL)
 - https://opend6project.wordpress.com/
 
