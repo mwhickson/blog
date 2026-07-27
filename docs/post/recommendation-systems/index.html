@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  
+  <meta charset="utf-8">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  
+    <meta name="description" content="Who doesn&rsquo;t love a good recommendation system?
+Anybody ever encounter one?
+Was it programmatically curated?
+I&rsquo;m not saying that programmatic recommendation systems don&rsquo;t carry some value, but it seems that each one has its sweet spot &ndash; once you&rsquo;ve passed that &ndash; it seems like there&rsquo;s no way back.
+For me, recommendation systems come into play primarily with music or other types of internet media.
+YouTube and Spotify are the two that I fight with most regularly. Netflix? Once upon a time. I don&rsquo;t watch much there anymore.">
+  
+
+
+<meta name="color-scheme" content="light dark">
+
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.164.0">
+  <title>Recommendation Systems | Matthew Hickson&#39;s Blog</title>
+  <link href="https://mwhickson.github.io/blog/post/recommendation-systems/" rel="canonical">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+      <link href="/blog/css/base.min.8432b9878a76eb13982ae75a4b69e2b17e96fc000f9d773ba0001933c3028c87.css" rel="stylesheet" integrity="sha256-hDK5h4p26xOYKudaS2nisX6W/AAPnXc7oAAZM8MCjIc=" crossorigin="anonymous">
+
+
+
+</head>
+
+<body>
+  <nav class="u-background">
+  <div class="u-wrapper">
+    <ul class="Banner">
+      <li class="Banner-item Banner-item--title">
+        
+          <a class="Banner-link u-clickable" href="/blog/">Matthew Hickson&#39;s Blog</a>
+        
+      </li>
+      
+        
+        
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/blog/post/">Posts</a>
+        </li>
+      
+        
+        
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/blog/lists/">Lists</a>
+        </li>
+      
+        
+        
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/blog/tags/">Tags</a>
+        </li>
+      
+    </ul>
+  </div>
+</nav>
+
+  <main>
+    <div class="u-wrapper">
+      <div class="u-padding">
+        
+
+  
+  <header class="Heading">
+  <h1 class="Heading-title">
+    <a class="Heading-link u-clickable" href="/blog/post/recommendation-systems/" rel="bookmark">Recommendation Systems</a>
+  </h1>
+  
+    
+      <time datetime="2026-07-26T23:33:23-04:00">July 26, 2026</time>
+    
+  
+</header>
+  <p>Who doesn&rsquo;t love a good recommendation system?</p>
+<p>Anybody ever encounter one?</p>
+<p>Was it programmatically curated?</p>
+<p>I&rsquo;m not saying that programmatic recommendation systems don&rsquo;t carry some value, but it seems that each one has its sweet spot &ndash; once you&rsquo;ve passed that &ndash; it seems like there&rsquo;s no way back.</p>
+<p>For me, recommendation systems come into play primarily with music or other types of internet media.</p>
+<p>YouTube and Spotify are the two that I fight with most regularly. Netflix? Once upon a time. I don&rsquo;t watch much there anymore.</p>
+<p>Fight with?</p>
+<p>But why you ask?</p>
+<p>Well, I don&rsquo;t think that I&rsquo;m all that special when it comes to my preferences regarding music (and other more general media); however, my tastes might be perceived as covering a lot of ground.</p>
+<p>I understand that presents a challenge for the recommendation systems of yore. The surprise is that it seems like modern recommendation systems really spiral into uselessness.</p>
+<p>It seems quite odd that I feel like the old, simple preference-based systems tried to do less and ended up accomplishing more.</p>
+<p>Generally, my criteria for things I like to see suggested comes down to:</p>
+<ul>
+<li>content by creators I enjoy</li>
+<li>content similar to content created by my favourite creators</li>
+<li>fresh content</li>
+<li>older content that I have not yet encountered</li>
+<li>content produced in languages I understand</li>
+</ul>
+<p>Doesn&rsquo;t seem like so much to ask for. Does it?</p>
+<p>Bonus points if the recommendation engines are capable of:</p>
+<ul>
+<li>not displaying the same content more than once</li>
+<li>keeping content length similar to content I watch (I like content between 5-30 minutes in length, with some exceptions, which I should be easy to determine, since those exceptions are all within a specific genre/content format)</li>
+<li>occasional reminders of content I have already heard/seen, but not in some time (weeks or months at least &ndash; most certainly not just days, hours or mere minutes)</li>
+<li>a way to remove content I tried, but did not like, from consideration</li>
+</ul>
+<p>What I absolutely do not want is:</p>
+<ul>
+<li>the latest &ldquo;popular&rdquo; content (I am not a sports guy. I am not a car guy. I don&rsquo;t like &ldquo;funny&rdquo; animal or &ldquo;fail&rdquo; videos. I don&rsquo;t like trailers. I don&rsquo;t want your rabid political ramblings &ndash; regardless of your persuasion. There&rsquo;s more, but let&rsquo;s start there at a bare minimum.)</li>
+<li>a full page of recommendations based on a singular piece of content &ndash; especially a piece I just viewed</li>
+<li>recommendations for content in languages I have never consumed content of any sort in</li>
+<li>AI generated content (though content about AI is fine)</li>
+</ul>
+<p>I accept that demographically popular content is low-hanging fruit for any recommendation engine.</p>
+<p>I willinging attempt to curtail the onslaught of that popular, though not popular with me, content.</p>
+<ul>
+<li>I log in with an account on the service in question (even when it&rsquo;s not required).</li>
+<li>I subscribe to content creators.</li>
+<li>I like (and less often dislike) content to actively tell you what I want more of.</li>
+<li>I hide/reject recommendations (which I believe to be different from disliking content) for content/creators that I don&rsquo;t want to see to tell you what I want less of.</li>
+</ul>
+<p>This seems largely effective at the moment, but has not always been so in the past, and I suspect I&rsquo;ll reach the tipping point I alluded to earlier where my recommendations go completely off the rails.</p>
+<p>Now that unfortunately, but fairly, still leaves recommendations that are probably well-meaning, but woefully off the mark a significant portion of the time.</p>
+<p>The most obvious misuse (abuse?) of user preference data is letting subscriptions, likes, or even just listens/views queue up everything that that a particular content creator has ever produced.</p>
+<p>Really? Why would you do that?</p>
+<p>I just subscribed and/or liked the content of that creator. Fair enough. That indicates I could be interested in the other material they have produced.</p>
+<p>On the other hand, unless your UI is garbage, I can easily find their content library. That library is probably even organized to some degree, making that cluster of recommendations a particularly large pet peeve of mine because it is simply filler. The illusion of recommendations intended to engage and support discovery of the next amazing thing.</p>
+<p>It is especially frustrating when a number of the recommendations are also content that I just listened to or watched &ndash; sometimes even appearing more than once! I&rsquo;ll admit that I can see the value of re-recommending things you know I already like to permit re-discovery &ndash; if significant time had passed and you don&rsquo;t offer up favourites/liked/history listing features on your service. But those are core features of any media site, aren&rsquo;t they?</p>
+<p>Next up on the frustration train is the &ldquo;kid in a candy store&rdquo; approach where similar content overwhelms the recommendation feed.</p>
+<p>I get it, it&rsquo;s probably the next simplest thing to do, and the service can use my feedback to generate more recommendation detail for me &ndash; and other users &ndash; depending on how those recommendations pan out.</p>
+<p>However, just because I eat a candy bar, it does not mean I want to eat one hundred candy bars &ndash; even if they are from different manufacturers and/or contain different tasty goodies.</p>
+<p>Don&rsquo;t get me wrong! I don&rsquo;t mind if I start to see thematically similar content based on my listen/watch history. I prefer it!</p>
+<p>Having said that, it doesn&rsquo;t take long before anybody with non-myopic interests should provide more than ample data for a series of themes to emerge in recommendations and being swamped in a single interest is no longer the only option.</p>
+<p>Ultimately, a lot of these frustrations could be resolved by just allowing me to opt out of some of them, or even just explicitly tell you what I want more of and less of.</p>
+<p>I&rsquo;m going to take a moment to pick on YouTube, because it&rsquo;s particularly bad in this area, even though it provides the illusion of a number of options to help.</p>
+<p>On YouTube, I can:</p>
+<ul>
+<li>request not to see a specific video recommendation &ndash; even supplying a (lacklustre) reason for why I don&rsquo;t want the recommendation</li>
+<li>request not to see recommendations from a particular channel</li>
+<li>dislike a video</li>
+</ul>
+<p>Despite being able to like/subscribe and having the appearence of removing recommendations there are several issues that still arise:</p>
+<ul>
+<li>&ldquo;Show fewer Shorts&rdquo; &ndash; How about &ldquo;Show NO Shorts&rdquo;? I&rsquo;m sure there&rsquo;s a revenue stream somewhere that explains that option, but that has nothing to do with my preferences.</li>
+<li>It&rsquo;s unclear what removing a recommendation for a content creator you follow/like does&hellip; Further complicated if they&rsquo;re a musician who shows up in a &ldquo;Mix&rdquo; or a &ldquo;Short&rdquo;&hellip;</li>
+<li>Despite removing/blocking/sternly disapproving of recommendations&hellip; they&rsquo;re still likely to show up again. Maybe not today&hellip; Maybe not tomorrow&hellip; But sooner than you&rsquo;d like (which would be never)</li>
+</ul>
+<p>The sad thing is, the answer is dead simple, and it predates recommendation engines&hellip;</p>
+<p>It&rsquo;s user preferences.</p>
+<p>Specific user preferences alongside recommendation engines could further (and probably dramatically) improve the user experience.</p>
+<p>Things like the following would allow explicit opt-in to refine recommendations, and help identify specific computational costs to perform these filters:</p>
+<ul>
+<li>Content Rating (G, PG, AA, R, etc.)</li>
+<li>Content Length (minimum/maximum guidelines)</li>
+<li>Tag-based content/genre preferences for show/hide (This is a classic approach! YouTube, Spotify and others even feed back your most listened to/watched genres!)</li>
+<li>Enable/disable specialty content types (e.g. Shorts, Mixes, Playlists, etc.)</li>
+<li>Content priority (age, topic, by followed, etc.)</li>
+</ul>
+<p>Now, I&rsquo;m not naive enough to believe that user satisfaction is the priority of any streaming service.</p>
+<p>I acknowledge that monetization through advertising, or better still, service subscription is almost certainly a more central focus of these services.</p>
+<p>Users, and paying users at that, are the Holy Grail of subscription services.</p>
+<p>I&rsquo;d just like to think that you attract users, and more ardent users at that, by not aggravating them into subscribing.</p>
+<p>For instance, I don&rsquo;t watch Netflix much anymore at all. It&rsquo;s still in the household because other family members do. I simply don&rsquo;t find it worth my time to scroll through row after row of content that Netflix wants me to watch, rather than content I would like to watch. To see the same show or movie listed again and again under wildly different categories (and increasingly specific, yet charmingly meaningless categories), all while fighting off a lack of any real content description and jarring autoplaying previews&hellip; It just got to be more irritation than enjoyment. It certainly became obvious that my limited preferences and watch history were most definitely not queueing up content I wanted to see!</p>
+<p>The same holds true for Spotify. Listening to podcasts with their own sponsors, interrupted by Spotify advertising, doesn&rsquo;t make fighting against the afterthought UI only a music streaming service could shoehorn in worth the effort. That doesn&rsquo;t begin to cover the jarring advertisements for Spotify or promoted artists being injected into my listening stream. The blatant disregard for my preferences when a country music themed ad is injected into my metal stream, or a rap themed ad is injected into my classical stream quickly illustrate that my interests are not a consideration when it comes time for a buck to be made.</p>
+<p>If these services don&rsquo;t care enough to make themselves the best of the best when they&rsquo;re striving to get me to lay down my money, what is supposed to make me think that they&rsquo;re going to get better once I have subscribed?</p>
+<p>In fact, other than trimming ads, they typially don&rsquo;t. Not these days.</p>
+<p>I have subscribed to just about every mainstream streaming service at least once, but the perks of doing so just don&rsquo;t outweigh the benefits anymore.</p>
+<p>With a subscription, I get ad-free content consumption, but still have to fight to find content I want to consume &ndash; and to keep a healthy, interesting stream of that content in front of me.</p>
+<p>All that because the recommendation engine has usurped something as basic as user preference settings.</p>
+<p>These services would rather guess wrong, and less charitably, force their own sponsored content down my throat, than simply let me clearly and unambiguously tell them what I want.</p>
+<p>I had, and sometimes still have, a better time these days with run-of-the-mill broadcast television and local radio.</p>
+<p>Let that sink in&hellip;</p>
+<p>Services that cater to a broader public, that operate in a one-way format, that have largely been put out to pasture, offer a more pleasant and reliable means of consuming pre-existing and upcoming new content.</p>
+<p>And, with that, I&rsquo;ll end this rant before it rambles any further.</p>
+<p>I&rsquo;d just like you, dear reader, to consider what you want from your streaming services.</p>
+<p>I&rsquo;d leave a note for any streaming service representatives here, but they&rsquo;re either already aware and unable/unwilling to do anything about this, or just not going to stumble across this.</p>
+<p>For those of you who are interested in what I recommend for streaming, see my list:</p>
+<ul>
+<li><a href="/blog/lists/entertainment/streaming/#services">Streaming Services</a></li>
+</ul>
+
+  
+
+  
+
+  
+
+
+
+
+
+  
+  
+
+
+
+      </div>
+    </div>
+  </main>
+  
+  <footer class="Footer">
+    <div class="u-wrapper">
+      <div class="u-padding u-noboosting">
+        Copyright 2026, Matthew Hickson. All rights reserved.
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>
