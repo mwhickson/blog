@@ -123,23 +123,20 @@ Tubi
 @TheArcaneLibrary
 - https://www.youtube.com/@TheArcaneLibrary
 
-@bencaplanmusic
-- https://www.youtube.com/@bencaplanmusic
+@BardicBroadcasts
+- https://www.youtube.com/@BardicBroadcasts
 
 @BenEater
 - https://www.youtube.com/@BenEater
 
-@bishopbriggsofficial
-- https://www.youtube.com/@bishopbriggsofficial
+@BennJordan
+- https://www.youtube.com/@BennJordan
 
 @bitsandbytestvo
 - https://www.youtube.com/@bitsandbytestvo
 
-@BrassAgainst
-- https://www.youtube.com/@BrassAgainst
-
-@BridgeCitySinners
-- https://www.youtube.com/@BridgeCitySinners
+@c64as
+- https://www.youtube.com/@c64as
 
 @ChaosiumInc
 - https://www.youtube.com/@ChaosiumInc
@@ -147,20 +144,32 @@ Tubi
 @codingblocks
 - https://www.youtube.com/@codingblocks
 
+@DavesGarage
+- https://www.youtube.com/@DavesGarage
+
 @DefendersofKobold
 - https://www.youtube.com/@DefendersofKobold
 
 @DemosceneTV
 - https://www.youtube.com/@DemosceneTV
 
-@elisetrouw
-- https://www.youtube.com/@elisetrouw
+@DungeonMusings
+- https://www.youtube.com/@DungeonMusings
+
+@EvaAuner
+- https://www.youtube.com/@EvaAuner
+
+@explorerswantedpodcast
+- https://www.youtube.com/@explorerswantedpodcast
 
 @FateSRD
 - https://www.youtube.com/@FateSRD
 
 @funfunfunction
 - https://www.youtube.com/@funfunfunction
+
+@GingerGames
+- https://www.youtube.com/@GingerGames
 
 @GinnyDi
 - https://www.youtube.com/@GinnyDi
@@ -171,23 +180,8 @@ Tubi
 @Heilung
 - https://www.youtube.com/@Heilung
 
-@HiromiOfficial
-- https://www.youtube.com/@HiromiOfficial
-
-@INFECTEDRAIN
-- https://www.youtube.com/@INFECTEDRAIN
-
 @jeriellsworth
 - https://www.youtube.com/@jeriellsworth
-
-@JinjerMetalBand
-- https://www.youtube.com/@JinjerMetalBand
-
-@john5officialYT
-- https://www.youtube.com/@john5officialYT
-
-@jordanreyne
-- https://www.youtube.com/@jordanreyne
 
 @JuniperDev
 - https://www.youtube.com/@JuniperDev
@@ -195,50 +189,23 @@ Tubi
 @JupiterBroadcasting
 - https://www.youtube.com/@JupiterBroadcasting
 
-@justinjohnsonlive
-- https://www.youtube.com/@justinjohnsonlive
-
 @lauriewired
 - https://www.youtube.com/@lauriewired
 
 @LearnWithHuw (Code With Huw)
 - https://www.youtube.com/@LearnWithHuw
 
-@lights
-- https://www.youtube.com/@lights
-
-@lindseystirling
-- https://www.youtube.com/@lindseystirling
-
-@MasterBootRecord
-- https://www.youtube.com/@MasterBootRecord
-
-@mastodon
-- https://www.youtube.com/@mastodon
-
-@MelissaBonny
-- https://www.youtube.com/@MelissaBonny
+@MastersOfTheBox
+- https://www.youtube.com/@MastersOfTheBox
 
 @MeMyselfandDieRPG
 - https://www.youtube.com/@MeMyselfandDieRPG
 
-@MUSHROOMHEADTV
-- https://www.youtube.com/@MUSHROOMHEADTV
-
 @themorls
 - https://www.youtube.com/@themorls
 
-@thepianoguys
-- https://www.youtube.com/@thepianoguys
-
-@Polyphia
-- https://www.youtube.com/@Polyphia
-
 @Psych
 - https://www.youtube.com/@Psych
-
-@redfangpdx
-- https://www.youtube.com/@redfangpdx
 
 @RelicRadio
 - https://www.youtube.com/@RelicRadio
@@ -246,35 +213,23 @@ Tubi
 @RetroRecipes
 - https://www.youtube.com/@RetroRecipes
 
-@robscallon
-- https://www.youtube.com/@robscallon
-
-@RodrigoyGabriela
-- https://www.youtube.com/@RodrigoyGabriela
-
 @Runehammer1
 - https://www.youtube.com/@Runehammer1
-
-@sabrinasolo
-- https://www.youtube.com/@sabrinasolo
-
-@SarahLongfield
-- https://www.youtube.com/@SarahLongfield
 
 @ShadowcastersNetwork
 - https://www.youtube.com/@ShadowcastersNetwork
 
-@ShredmasterScott
-- https://www.youtube.com/@ShredmasterScott
-
 @spoutlorestudios
 - https://www.youtube.com/@spoutlorestudios
 
-@twelvefootninja
-- https://www.youtube.com/@twelvefootninja
+@StarTrekContinues
+- https://www.youtube.com/@StarTrekContinues
 
-@UnleashTheArchers
-- https://www.youtube.com/@UnleashTheArchers
+@TheArcaneLibrary
+- https://www.youtube.com/@TheArcaneLibrary
+
+@TheDrewCareyShow
+- https://www.youtube.com/@TheDrewCareyShow
 
 @wasabiburger3047
 - https://www.youtube.com/@wasabiburger3047

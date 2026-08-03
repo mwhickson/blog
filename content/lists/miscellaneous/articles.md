@@ -28,6 +28,12 @@ Fabrice Bellard's Home Page
 Hex Flower Power
 - https://goblinshenchman.wordpress.com/hex-power-flower/
 
+Nudists, peaceniks and freeloading travellers: the people keeping the Esperanto dream alive
+- https://www.theguardian.com/news/ng-interactive/2026/jul/28/nudists-peaceniks-freeloading-travellers-esperanto
+
+Plastic eating mushrooms: a viable solution to plastic decomposition
+- https://www.colorado.edu/ecenter/2021/11/04/plastic-eating-mushrooms-viable-solution-plastic-decomposition
+
 Pragmatism in Programming Proverbs
 - https://www.gingerbill.org/article/2020/05/31/programming-pragmatist-proverbs/
 
