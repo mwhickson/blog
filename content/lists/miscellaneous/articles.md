@@ -22,6 +22,9 @@ Behold A 60 Hz Refresh Rate E-ink Monitor
 Building my own Vi text editor in BASIC
 - https://leetusman.com/nosebook/yvi
 
+Eight Myths on Software Engineering and GenAI
+- https://queue.acm.org/detail.cfm?id=3807963
+
 Fabrice Bellard's Home Page
 - https://bellard.org/
 
@@ -53,8 +56,14 @@ The Word "Emoji" Is Older Than You May Think
 Their Bionic Eyes Are Now Obsolete and Unsupported
 - https://spectrum.ieee.org/bionic-eye-obsolete
 
+This organ will play one composition until 2640. It’s redefining how slowly music can be played
+- https://apnews.com/article/john-cage-organ-project-halberstadt-organ-aslsp-938b5a1d0bc3d8d0dec5cb19accd00a6
+
 Vesuvius Turned a Roman Man's Brain Into Glass
 - https://www.smithsonianmag.com/smart-news/vesuvius-turned-a-roman-mans-brain-into-glass-now-scientists-reveal-how-the-extremely-rare-preservation-happened-180986145/
+
+We spend $45,000 on doing more weird every month
+- https://posthog.com/blog/on-doing-more-weird
 
 Why I email complete strangers
 - https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
@@ -66,6 +75,9 @@ Writing an editor in less than 1000 lines of code, just for fun
 Writing Toy Software Is A Joy
 - https://blog.jsbarretto.com/post/software-is-joy
 - https://news.ycombinator.com/item?id=44367084 (or https://news.ycombinator.com/item?id=44284291)
+
+Your JSON Is Lying to You
+- https://blog.gaborkoos.com/posts/2026-08-03-Your-JSON-Is-Lying-to-You/
 
 Zen of Python
 - https://peps.python.org/pep-0020/

@@ -7,6 +7,12 @@ type = "page"
     showdate = false
 +++
 
+Darths & Droids
+- https://www.darthsanddroids.net/episodes/0001.html
+
+DM of the Rings
+- https://www.shamusyoung.com/twentysidedtale/?p=612
+
 Floor796
 - https://floor796.com/
 
