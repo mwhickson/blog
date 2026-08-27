@@ -28,6 +28,9 @@ Eight Myths on Software Engineering and GenAI
 Fabrice Bellard's Home Page
 - https://bellard.org/
 
+Hard to swallow? The future of snacking may be 3D-printed cookies made from upcycled plastic
+- https://www.theguardian.com/food/2026/aug/24/cookies-plastic-astronauts-space-food
+
 Hex Flower Power
 - https://goblinshenchman.wordpress.com/hex-power-flower/
 
@@ -45,6 +48,9 @@ Roleplaying games 101
 
 Silence of the dice
 - https://latenightzen.blogspot.com/2020/02/silence-of-dice.html
+
+Sunk Cost Fallacy as a Feature
+- https://www.vaines.org/posts/2026-07-20-sunk-cost-fallacy-as-a-feature/
 
 The Git Commands I Run Before Reading Any Code
 - https://piechowski.io/post/git-commands-before-reading-code/
