@@ -19,6 +19,9 @@ Fantasy Grounds VTT (SmiteWorks)
 Fossil SCM
 - https://fossil-scm.org/home/doc/trunk/www/index.wiki
 
+Friction
+- https://friction.graphics/
+
 Gitea
 - https://about.gitea.com/
 
@@ -33,6 +36,9 @@ Grover Podcast
 
 HERO Designer
 - https://www.herogames.com/store/product/1-hero-designer/
+
+Kenney Game Assets
+- https://kenney.nl/
 
 KoboldCpp
 - https://github.com/lostruins/koboldcpp
@@ -49,6 +55,9 @@ Midnight Commander
 Ogres Tabletop
 - https://ogres.app/
 - https://github.com/samcf/ogres
+
+OpenRCT2
+- https://openrct2.io/
 
 Rclone
 - https://rclone.org/
@@ -151,6 +160,7 @@ Xojo
 
 AROS
 - https://aros.sourceforge.io/
+- https://hackaday.com/2026/08/23/amiga-inspired-aros-goes-bare-metal-on-raspberry-pi/
 
 Debian
 - https://www.debian.org/

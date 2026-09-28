@@ -93,6 +93,9 @@ Pathfinder/Starfinder (OGL/ORC)
 Questworlds SRD (ORC)
 - https://github.com/ChaosiumInc/QuestWorlds
 
+Steel Compendium (DRAW STEEL Creator License)
+- https://steelcompendium.io/v2/
+
 Traveller SRD
 - https://www.traveller-srd.com/
 
