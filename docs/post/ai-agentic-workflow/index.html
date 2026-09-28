@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  
+  <meta charset="utf-8">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  
+    <meta name="description" content="Hello again!
+I have returned to detail my experiments into AI agentic workflow for software development.
+SPOILER: Once again, there is much promise, but ultimately things don&rsquo;t seem to be there just yet.">
+  
+
+
+<meta name="color-scheme" content="light dark">
+
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.166.0">
+  <title>AI Agentic Workflow Experiment | Matthew Hickson&#39;s Blog</title>
+  <link href="https://mwhickson.github.io/blog/post/ai-agentic-workflow/" rel="canonical">
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+  
+      <link href="/blog/css/base.min.8432b9878a76eb13982ae75a4b69e2b17e96fc000f9d773ba0001933c3028c87.css" rel="stylesheet" integrity="sha256-hDK5h4p26xOYKudaS2nisX6W/AAPnXc7oAAZM8MCjIc=" crossorigin="anonymous">
+
+
+
+</head>
+
+<body>
+  <nav class="u-background">
+  <div class="u-wrapper">
+    <ul class="Banner">
+      <li class="Banner-item Banner-item--title">
+        
+          <a class="Banner-link u-clickable" href="/blog/">Matthew Hickson&#39;s Blog</a>
+        
+      </li>
+      
+        
+        
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/blog/post/">Posts</a>
+        </li>
+      
+        
+        
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/blog/lists/">Lists</a>
+        </li>
+      
+        
+        
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/blog/tags/">Tags</a>
+        </li>
+      
+    </ul>
+  </div>
+</nav>
+
+  <main>
+    <div class="u-wrapper">
+      <div class="u-padding">
+        
+
+  
+  <header class="Heading">
+  <h1 class="Heading-title">
+    <a class="Heading-link u-clickable" href="/blog/post/ai-agentic-workflow/" rel="bookmark">AI Agentic Workflow Experiment</a>
+  </h1>
+  
+    
+      <time datetime="2026-09-27T18:13:34-04:00">September 27, 2026</time>
+    
+  
+</header>
+  <p>Hello again!</p>
+<p>I have returned to detail my experiments into AI agentic workflow for software development.</p>
+<p>SPOILER: Once again, there is much promise, but ultimately things don&rsquo;t seem to be there just yet.</p>
+<p>More and more recently I read about software developers, programmers and dabblers that claim they &ldquo;don&rsquo;t write code anymore!&rdquo; or that they use some magnificent AI-based workflow for vibe-coded or other AI-assisted projects.</p>
+<p>Well, I have to say that I was intrigued!</p>
+<p>What would that even look like?</p>
+<p>How far could it go?</p>
+<p>Was there any truth to any of it?</p>
+<p>To find out, I sat down with my vibe-coding buddy of choice, Gemini, and walked through the process.</p>
+<p>I had specific limitations I wanted to include in this endeavor. These are a result of &ldquo;testing the waters&rdquo; and &ldquo;keeping it safe&rdquo; in light of sensitive information leakage and AI breakout concerns.</p>
+<p>A quick overview of the specification was:</p>
+<ul>
+<li>all AI agents should confirm actions at pre-set intervals with a human orchestrator</li>
+<li>all activity should be local only (e.g. LLM environment, output, etc.)</li>
+<li>roles should be used to focus agentic effort (I ended up with Planner, Builder, Tester and Reviewer)</li>
+<li>all activity should be comprehensible and reviewable by an appropriately skilled human</li>
+<li>quality and reproducibility for the purposes of reliability, review and ongoing maintenance were key guiding factors</li>
+</ul>
+<p>The goal I had was to utilize lower-end hardware (a no CUDA GPU, CPU-bound desktop) to produce working software from a reasonable specification, with minimal human involvement to correct issues that wouldn&rsquo;t be issues if the task(s) were being performed by a human.</p>
+<p>As I have already spoiled the outcome, the results were promising, but not overwhelmingly impressive for larger scale use.</p>
+<p>Before I talk about the final results, let&rsquo;s talk a bit about the process to turn my first grand specification into <a href="https://github.com/mwhickson/agent-ranch-0">Agent-Ranch-0</a> (AR0).</p>
+<blockquote>
+<p>(<code>Agent-Ranch-0</code> was originally <code>Agent-0</code>, but I wanted to capture the visual of open plains as far as the eye could see with Agents roaming under the watchful eye of a lonesome cowpoke&hellip; So, I stuffed <code>Ranch</code> into the name and called it done. <code>0</code> was because this was the prototype version. Clever? Not particularly. Still, better than some of the random project names that were so en vogue a while ago&hellip; <code>strawberry-wombat-eleven</code> anyone?)</p>
+</blockquote>
+<p>Anyway, the process I followed was as follows:</p>
+<ul>
+<li>know what I wanted to achieve, and generally how I wanted to achieve it</li>
+<li>accept that vibe-coding with Gemini was going to be a large part of this because:
+<ul>
+<li>I didn&rsquo;t really know what this should look like</li>
+<li>I figured who understands AI agents better than an AI (especially since I was using Gemma, a model I figured Gemini should have a feel for&hellip;)</li>
+</ul>
+</li>
+<li>break the desired outcome into steps, including strong statements about priorities like local-only, human-guided, human-comprehensible</li>
+<li>rein in the eagerness AI (even Gemini) has to want to one-shot something that it thinks I wanted, rather than specifically what I requested</li>
+<li>iterate each step with Gemini, providing ongoing feedback and tailoring output to get what I wanted</li>
+<li>test each iteration with my local LLM (Koboldcpp + Gemma) and identify actionable steps to move the project forward</li>
+<li>lather, rinse, repeat</li>
+</ul>
+<p>It didn&rsquo;t take long to get something up and running, but to reach a stage of &ldquo;Hey! I got a working program out of AR0!&rdquo; took a few days.</p>
+<p>At its core, AR0 is a serialized state machine passing instructions off to the LLM with agentic role prompts and keeping track of progress in a Sqlite database.</p>
+<p>I was somewhat surprised at the pivotal role the LLM prompts played, though in retrospect, I really shouldn&rsquo;t have been.</p>
+<p>The housing handled formal hand-offs between agentic roles, but the individual role LLM sessions where were the work happened.</p>
+<p>The workflow evolved to:</p>
+<ul>
+<li>Planner reads the specification and provides a set of non-overlapping, non-ambiguous tasks (stored in Sqlite) for Builder to create from</li>
+<li>Builder reads tasks (from Sqlite) and builds code (stored on disk via <code>cat</code>) to fulfill the goals of the current task</li>
+<li>Reviewer examines the code (from disk) to make sure that Builder didn&rsquo;t miss the point of the task, and that the code generated is testable</li>
+<li>Tester examines the code and produces automated tests to help with quality control, and to avoid back-sliding if code is regenerated</li>
+<li>If Tester&rsquo;s tests pass, control returns to Builder to complete any remaining tasks; otherwise, the current task is returned to Builder to try again</li>
+</ul>
+<p>Human sign-off occurs after the plan is produced, but before Builder starts writing code. Sign-off occurs again when the code has been generated and reviewed, but before it has been tested.</p>
+<p>It became clear during the development of AR0 that the <code>Action Schema</code> (the JSON schema used to transmit actions/statuses between roles) was crucial &ndash; and subject to a variety of hiccups. Using some strong JSON schema adherence (part of Koboldcpp) might have helped, but I wanted to avoid restricting the LLM runner to a specific application. Clear JSON examples, and some code in the execution environment to correct any deficiencies seems to have worked well enough. Gemini was superb at identifying when and where Gemma (4B, 2B and eventually 26B) was having difficulties and proposed prompt solutions that resolved issues almost always on the first attempt.</p>
+<p>Other issues corrected/refined during development included:</p>
+<ul>
+<li>Agents make typos; rather than passing on broken code &ndash; a Python compilation phase was used to push broken code back to Builder immediately so that it wouldn&rsquo;t be tested before it compiled</li>
+<li>Agents like to do as much work as possible in as little time as possible, sometimes involving shortcuts and often ignoring instructions to produce testable code &ndash; Reviewer was added to stop this from happening, and it was a wonderful improvement</li>
+<li>Agents don&rsquo;t like redoing things &ndash; Reviewer helped here too, ensuring that Builder took feedback from Tester into account and didn&rsquo;t just resubmit things unchanged (and broken) or make trivial changes to fulfill the obligation of the return, rather than addressing the issue resulting in the return</li>
+<li>Tester could make typos too! &ndash; the Python compilation phase was used to avoid Tester returning valid code because the tests were broken</li>
+<li>Retries were part of the workflow from the start, to prevent Agents from entering into wheel spinning behaviour due to being unable to complete a request due to errors or token exhaustion &ndash; human intervention was triggered at points where retries reached their limit to address concerns about the workflow itself, or costs associated with repeating sequences producing no actionable output</li>
+<li>Resuming work (after a retry limit was reached, or a crash required a workflow restart) meant that the work for a specific workflow stage or task could already be complete &ndash; Planner, Builder and Tester were given instructions to issue a <code>NO_OP</code> with the reason that the work was already complete to shorten the cycle to get to new work (task state in the Sqlite database also helped Agents resume activity at a reasonable point)</li>
+</ul>
+<p>When everything was all said and done, AR0 was capable of successfully tackling the following projects:</p>
+<ul>
+<li>a number guessing game in Python</li>
+<li>the same number guessing game in Go (required changes to the workflow harness, and also saw the Gemma 26B model come into use)</li>
+<li>a library (in Python) to support some common conversions for measurements</li>
+<li>a Tcl/Tk GUI wrapper application for the conversion library</li>
+</ul>
+<p>Overall, taking a written specification in Markdown format and producing working code with tests, even for programs this small, impressed me.</p>
+<p>With limited hardware and local resources only, it turns out it was entirely possible to build and execute an LLM-based software development pipeline that produced viable end results!</p>
+<p>It wasn&rsquo;t until I tried to produce a more complex game in Python that limitations became apparent.</p>
+<p>In short, a sizeable specification consumes a large percentage of the context the LLM agents use to complete their tasks, and token starvation results in a frustrating &ldquo;will it even complete?&rdquo; game of wait and see.</p>
+<p>The &ldquo;wait and see&rdquo; became the point at which progress stalled and the project lost its lustre.</p>
+<p>I know that I could push the project further by:</p>
+<ul>
+<li>extending the token budget (I tried this, and met with the same results. I should revisit this.)</li>
+<li>improving the quality of hardware used for the experiment (not in the budget at this time)</li>
+<li>pushing the experiment out to use an external model (Gemini, Claude, etc.) &ndash; this runs counter to the fundamental goals of the project</li>
+</ul>
+<p>At any rate, this was essentially the journey I took.</p>
+<p>It helped solidify my understanding of what an Agentic software development workflow might look like, and helped me explore the issues and limitations that go along with a workflow of that nature.</p>
+<p>I think it was a good and worthwhile experiment &ndash; even if I ended up in the same spot at the conclusion of the experiment (AI is impressive, but still has sizeable gaps in what it can do and how it can do it).</p>
+<p>Lastly, I&rsquo;m not really sure the experiment is over&hellip;</p>
+<p>I know I&rsquo;m taking a breather from things at the moment; however, I do still want to revisit this workflow or something similar.</p>
+<p>Watch <a href="https://github.com/mwhickson">this space</a> for details!</p>
+<hr>
+
+
+
+
+<h2 id="bonus-content">
+  <a class="Heading-link u-clickable" href="/blog/post/ai-agentic-workflow/#bonus-content">Bonus Content</a>
+</h2>
+<p>These are a few tidbits I wanted to pass along as well, but couldn&rsquo;t find a way to work them into the post above in a timely and seamless manner.</p>
+<ul>
+<li><code>cat &lt;&lt;&lt;EOL</code> is a common technique to keep AI code production on the rails (Agents may try to get fancy and use things like <code>sed</code>&hellip; this rarely goes well and is best avoided through explicit prompt instructions forbidding it)</li>
+<li>some languages are better suited to AI code production, evaluation, etc.
+<ul>
+<li>Python, Go, Rust are all fairly terse, fairly well-known (with examples driving quality generation) and with good feedback when failure occurs</li>
+<li>Java suffers from stack trace context bloat &ndash; not recommended</li>
+<li>C++ suffers from &ldquo;kitchen sink&rdquo; multi-paradigm nature of what it supports (Gemini cites template errors as a very strong source of &ldquo;things that will confuse an LLM&rdquo;)</li>
+<li>C is terse, but segfault parsing when the worst of the worst occurs, alongside the strong &ldquo;need&rdquo; for tools like <code>valgrind</code>, <code>gdb</code>, etc. for testing purposes are beyond what a local setup is likely to provide (without careful curation)</li>
+</ul>
+</li>
+<li>often prompts will accumulate edge-cases, duplication, and other verbosity that eats up context space and reduces overall clarity for Agents &ndash; review and clean up prompts when this happens</li>
+<li>a low <code>temperature</code> when submitting a prompt reduces hallucinations (and other creative solutions), but having more than one agent in a given role (where agents have differing temperatures) can produce higher quality results and avoid an individual Agent from getting &ldquo;stuck in a rut&rdquo;</li>
+</ul>
+  
+
+  
+
+  
+
+
+
+
+
+  
+  
+
+
+
+      </div>
+    </div>
+  </main>
+  
+  <footer class="Footer">
+    <div class="u-wrapper">
+      <div class="u-padding u-noboosting">
+        Copyright 2026, Matthew Hickson. All rights reserved.
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>

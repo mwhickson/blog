@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mwhickson.github.io/blog/post/</loc>
-    <lastmod>2026-07-26T23:33:23-04:00</lastmod>
+    <loc>https://mwhickson.github.io/blog/post/ai-agentic-workflow/</loc>
+    <lastmod>2026-09-27T18:13:34-04:00</lastmod>
   </url><url>
-    <loc>https://mwhickson.github.io/blog/post/recommendation-systems/</loc>
-    <lastmod>2026-07-26T23:33:23-04:00</lastmod>
+    <loc>https://mwhickson.github.io/blog/post/</loc>
+    <lastmod>2026-09-27T18:13:34-04:00</lastmod>
   </url><url>
     <loc>https://mwhickson.github.io/blog/</loc>
+    <lastmod>2026-09-27T18:13:34-04:00</lastmod>
+  </url><url>
+    <loc>https://mwhickson.github.io/blog/post/recommendation-systems/</loc>
     <lastmod>2026-07-26T23:33:23-04:00</lastmod>
   </url><url>
     <loc>https://mwhickson.github.io/blog/post/opinionated-software/</loc>
