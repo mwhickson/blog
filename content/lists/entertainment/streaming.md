@@ -70,6 +70,9 @@ Tubi
 @janetacarr
 - https://www.twitch.tv/janetacarr
 
+@legendsofavantris
+- https://www.twitch.tv/legendsofavantris
+
 @Matthew_Colville
 - https://www.twitch.tv/matthew_colville
 
@@ -194,6 +197,9 @@ Tubi
 
 @LearnWithHuw (Code With Huw)
 - https://www.youtube.com/@LearnWithHuw
+
+@LegendsofAvantris
+- https://www.youtube.com/legendsofavantris
 
 @MastersOfTheBox
 - https://www.youtube.com/@MastersOfTheBox
