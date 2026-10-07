@@ -46,6 +46,9 @@ Tubi
 @BardicBroadcasts
 - https://www.twitch.tv/bardicbroadcasts
 
+@bashbunni
+- https://www.twitch.tv/bashbunni
+
 @chaosiuminc
 - https://www.twitch.tv/chaosiuminc
 
@@ -91,6 +94,9 @@ Tubi
 @SabrinaSoloShow
 - https://www.twitch.tv/sabrinasoloshow
 
+@Savingthrowshow
+- https://www.youtube.com/@Savingthrowshow
+
 @skyhook
 - https://www.twitch.tv/skyhook
 
@@ -128,6 +134,9 @@ Tubi
 
 @BardicBroadcasts
 - https://www.youtube.com/@BardicBroadcasts
+
+@bashbunni
+- https://www.youtube.com/c/@bashbunni
 
 @BenEater
 - https://www.youtube.com/@BenEater
@@ -182,6 +191,12 @@ Tubi
 
 @Heilung
 - https://www.youtube.com/@Heilung
+
+@HypnotiK_Games
+- https://www.youtube.com/@HypnotiK_Games
+
+@janetacarr
+- https://www.youtube.com/@janetacarr
 
 @jeriellsworth
 - https://www.youtube.com/@jeriellsworth
